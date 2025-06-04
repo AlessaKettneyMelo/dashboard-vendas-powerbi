@@ -13,6 +13,13 @@ Este projeto tem como objetivo apresentar um painel de vendas interativo desenvo
 - Produtos mais rentaveis.
 - Filtro interativo por data e tipo de produto
 - Métricas como total de vendas, ticket médio e quantidade de pedidos
+- Gráficos interativos para análise temporal e comparativa.
+
+---
+
+## 📁 Dados
+- Fonte: Dados fictícios gerados para fins educacionais.
+- Conteúdo: Informações sobre vendas, incluindo data, canal de venda, categoria, valor e quantidade.
 
 ---
 
@@ -41,7 +48,7 @@ Este projeto tem como objetivo apresentar um painel de vendas interativo desenvo
 
 ## 🖼️ Visual do Dashboard
 
-![Screenshot do Dashboard](./imagens/dashboard-vendas.png)
+![Dashboard de Vendas](./imagens/dashboard-vendas.png)
 
 ---
 
@@ -51,8 +58,17 @@ Este projeto tem como objetivo apresentar um painel de vendas interativo desenvo
 
 ---
 
-## ✍️ Sobre o Projeto
+## 🚀 Como Usar
+1. Faça o download do arquivo .pbix.
+2. Abra no Power BI Desktop.
+3. Explore os filtros interativos para analisar os dados por diferentes perspectivas.
 
-Este projeto foi desenvolvido como parte do meu portfólio de transição de carreira para a área de Análise de Dados. Ele representa meu segundo dia de prática com Power BI e já me permitiu aplicar conceitos de visualização, modelagem de dados e análise de métricas. Fiquei muito orgulhosa com meu primeiro dash autoral. 
+
+---
+
+## 👤 Sobre Mim
+Sou Alessa Kettney Melo, aspirante a analista de dados, em transição de carreira. Este projeto faz parte do meu portfólio para demonstrar minhas habilidades em análise de dados e visualização com Power BI.
+
+Me permitindo aplicar conceitos de visualização, modelagem de dados e análise de métricas. Fiquei muito orgulhosa com meu primeiro dash autoral. 
 
 Ele é uma sequencia de estudos com a mesma planilha do excel. https://github.com/AlessaKettneyMelo/an-lise-vendas-excel
