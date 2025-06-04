@@ -1,4 +1,4 @@
-# Dashboard de Vendas - Power BI
+# Painel Performance de vendas - Power BI
 
 📊 Projeto criado para praticar visualização de dados com Power BI.
 
