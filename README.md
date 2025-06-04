@@ -3,7 +3,7 @@
 📊 Projeto criado para praticar visualização de dados com Power BI.
 
 ## Objetivo
-Este projeto tem como objetivo apresentar um painel de vendas interativo desenvolvido no Power BI. Ele permite visualizar o desempenho de vendas por região, categoria de produto, receita ao longo do tempo e outros KPIs importantes.
+Este projeto tem como objetivo apresentar um painel de vendas interativo desenvolvido no Power BI. Ele permite visualizar o desempenho de vendas por região, categoria de produto, receita ao longo do tempo e outros KPIs importantes, facilitando decisões gerenciais baseadas em dados.
 
 ---
 
@@ -66,9 +66,21 @@ Este projeto tem como objetivo apresentar um painel de vendas interativo desenvo
 
 ---
 
-## 👤 Sobre Mim
-Sou Alessa Kettney Melo, aspirante a analista de dados, em transição de carreira. Este projeto faz parte do meu portfólio para demonstrar minhas habilidades em análise de dados e visualização com Power BI.
+##💻 Sobre o projeto
+
+Este projeto faz parte do meu portfólio para demonstrar minhas habilidades em análise de dados e visualização com Power BI.
 
 Me permitindo aplicar conceitos de visualização, modelagem de dados e análise de métricas. Fiquei muito orgulhosa com meu primeiro dash autoral. 
 
-Ele é uma sequencia de estudos com a mesma planilha do excel. https://github.com/AlessaKettneyMelo/an-lise-vendas-excel
+Ele é uma sequencia de estudos com a mesma planilha do excel.
+
+🔗 [Analise de planilha de vendas] (https://github.com/AlessaKettneyMelo/an-lise-vendas-excel)
+ 
+---
+
+
+## 🙋‍♀️ Sobre mim
+
+Sou apaixonada por organização, lógica e transformar dados em clareza visual. Tenho perfil analítico, autodidata e busco transição de carreira para a área de dados com foco em home office. Este é o segundo projeto do meu portfólio e estou em constante evolução.
+  
+🔗 [Me siga no GitHub](https://github.com/AlessaKettneyMelo)
