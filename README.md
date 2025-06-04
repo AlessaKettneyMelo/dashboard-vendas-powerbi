@@ -3,7 +3,9 @@
 📊 Projeto criado para praticar visualização de dados com Power BI.
 
 ## Objetivo
-Este projeto tem como objetivo apresentar um painel de vendas interativo desenvolvido no Power BI. Ele permite visualizar o desempenho de vendas por região, categoria de produto, receita ao longo do tempo e outros KPIs importantes, facilitando decisões gerenciais baseadas em dados.
+Este projeto apresenta um painel de vendas interativo desenvolvido no Power BI. Ele permite visualizar o desempenho de vendas por região, categoria de produto, receita ao longo do tempo e outros KPI's importantes. 
+
+O objetivo é transformar dados brutos em insights visuais que auxiliam na tomada de decisões comerciais.
 
 ---
 
@@ -74,7 +76,7 @@ Me permitindo aplicar conceitos de visualização, modelagem de dados e análise
 
 Ele é uma sequencia de estudos com a mesma planilha do excel.
 
-🔗 [Analise de planilha de vendas] (https://github.com/AlessaKettneyMelo/an-lise-vendas-excel)
+🔗 [Analise de planilha de vendas](https://github.com/AlessaKettneyMelo/an-lise-vendas-excel)
  
 ---
 
