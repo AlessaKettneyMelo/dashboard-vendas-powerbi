@@ -48,14 +48,10 @@ O objetivo é transformar dados brutos em insights visuais que auxiliam na tomad
 
 ---
 
-## 🖼️ Visual do Dashboard
-
- [Dashboard de Vendas]([https://github.com/AlessaKettneyMelo/an-lise-vendas-excel](https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/image.png))
+## 🖼️ [Visual do Dashboard](https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/image.png).
 ---
 
-## 📁 Arquivo do Projeto
-
-📎 [Download do arquivo .pbix]([https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/VENDAS.pbix))
+## 📁 [Download do arquivo .pbix](https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/VENDAS.pbix).
 ---
 
 ## 🚀 Como Usar
