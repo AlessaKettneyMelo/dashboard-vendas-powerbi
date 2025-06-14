@@ -50,13 +50,13 @@ O objetivo é transformar dados brutos em insights visuais que auxiliam na tomad
 
 ## 🖼️ Visual do Dashboard
 
-![Dashboard de Vendas](./imagens/dashboard-vendas.png)
+![Dashboard de Vendas].(https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/image.png).
 
 ---
 
 ## 📁 Arquivo do Projeto
 
-📎 [Download do arquivo .pbix](./dashboard-vendas.pbix)
+📎 [Download do arquivo .pbix].(https://github.com/AlessaKettneyMelo/painel-performance-vendas-powerbi/blob/main/VENDAS.pbix).
 
 ---
 
